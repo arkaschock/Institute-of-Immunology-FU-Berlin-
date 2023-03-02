@@ -11,23 +11,28 @@ if the app don't open at the first try then repeat the three steps above
 -------------------------------------
 
 "Programming" Languages:
+
     - Python 3
     - awk
 
 
 Packages:
+
     - tkinter 
     - subprocess
     - os
     - pyinstaller
     
 Operating System:
+
     - MacOS 
     
 Tested Hardware:
+
     - MacBook M1 (2020) with macOS Ventura 13.2.1
     
     
 License
+
     - GNU General Public License v2 (GPLv2) 
 
