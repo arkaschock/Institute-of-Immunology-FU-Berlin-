@@ -8,7 +8,10 @@ The app was tested under MacOS on a Macbook Air M1
 
 if the app don't open at the first try then repeat the three steps above
 
+
 -------------------------------------
+-------------------------------------
+
 
 "Programming" Languages:
 
@@ -35,4 +38,7 @@ Tested Hardware:
 License
 
     - GNU General Public License v2 (GPLv2) 
+    
+-------------------------------------
+-------------------------------------
 
